@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinFirstApp</string>
+    <string name="click_button">Click Button</string>
+    <string name="click_and_long_click">Click and Long Click</string>
+    <string name="text_value">text value</string>
+    <string name="textview">TextView</string>
+    <string name="edittext_events">EditText Events</string>
+</resources>
